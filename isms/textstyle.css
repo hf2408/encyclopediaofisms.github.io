@@ -1,0 +1,19 @@
+body{
+	background-color:#a98166;
+	color:white;
+}
+
+
+h1 {
+  font-size: 80px;
+  font-weight: bold;
+	margin: 80px;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  margin:40px auto;
+  text-align: justify;
+  width:60%;
+}
